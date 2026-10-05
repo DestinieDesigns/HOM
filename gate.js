@@ -1,0 +1,1 @@
+window.HOM_GATE={enabled:false};
